@@ -1,3 +1,11 @@
+# NAME
+
+Config::Onion - Layered configuration, because configs are like ogres
+
+# VERSION
+
+version 1.006
+
 # SYNOPSIS
 
     my $cfg = Config::Onion->new;
@@ -166,3 +174,14 @@ No bugs have been reported.
 
 Please report any bugs or feature requests at
 [https://github.com/dsheroh/Config-Onion/issues](https://github.com/dsheroh/Config-Onion/issues)
+
+# AUTHOR
+
+Dave Sherohman &lt;dsheroh@cpan.org>
+
+# COPYRIGHT AND LICENSE
+
+This software is copyright (c) 2012 by Lund University Library.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
